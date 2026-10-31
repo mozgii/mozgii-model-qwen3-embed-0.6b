@@ -1,0 +1,9 @@
+{
+  "include": [
+    "model.json",
+    "ship.json",
+    "README.md",
+    "LICENSE"
+  ],
+  "exclude": []
+}
